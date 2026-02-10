@@ -1,3 +1,4 @@
+// Dette prosjektet er utviklet med hjelp og veiledning fra ChatGPT, linken er https://chatgpt.com/c/69889bc9-2a70-832f-8b53-cee6facf386c//
 import { useState } from "react";
 import AddForm from "./components/AddForm";
 import ShoppingList from "./components/ShoppingList";
