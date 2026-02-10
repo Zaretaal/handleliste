@@ -1,6 +1,6 @@
 import { useState } from "react";
-import AddForm from "./components/addform";
-import ShoppingList from "./components/shoppinglist";
+import AddForm from "./components/AddForm";
+import ShoppingList from "./components/ShoppingList";
 
 function App() {
   const [items, setItems] = useState([
