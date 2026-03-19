@@ -1,5 +1,4 @@
-//denne oppgaven er gjort med hjelp og veiledning fra chatgpt, linken til samtalen er https://chatgpt.com/c/69889bc9-2a70-832f-8b53-cee6facf386c//
-import ShoppingItem from "./ShoppingItem";
+//denne oppgaven er gjort med hjelp og veiledning fra chatgpt, linken til samtalen er https://chatgpt.com/share/69aeb329-394c-8008-ab7a-7479fd2aa939//
 
 function ShoppingList({ items, onToggleBought, onUpdateAmount }) {
   return (
