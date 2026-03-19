@@ -25,4 +25,3 @@ function ShoppingItem({ item, onToggleBought, onUpdateAmount }) {
 }
 
 export default ShoppingItem;
-
